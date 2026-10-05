@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Shantanu Shete
-### 👨‍💻 About Me
-- Full Stack Developer (MERN) | Competitive Programmer  
-- AI, Cloud, and DevOps Enthusiast  
-- Built impactful platforms like an AI-powered placement assistant and registration portals  
-- 3800+ DSA Problems Solved (1150+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
-- Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
----
 ### B.Tech Computer Science Student · AI/ML · IoT · Cloud Computing · Web Development
 
 📍 Pune, Maharashtra, India · 🎓 B.Tech Computer Science — Dnyan Prasad Global University (DPGU), Pimpri
