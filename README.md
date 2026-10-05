@@ -1,8 +1,20 @@
-# 👋 Hi, I'm Shantanu Shete
+<h1 align="center"><strong>Shantanu Shete — Computer Science Student 👨‍💻</strong></h1>
 
-### B.Tech Computer Science Student · AI/ML · IoT · Cloud Computing · Web Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+Student+%7C+AI+%2F+ML+%7C+IoT;Cloud+Computing+%7C+Web+Development;Computer+Vision+%7C+Embedded+Systems+%7C+Data+Visualization"/>
+</p>
 
-📍 Pune, Maharashtra, India · 🎓 B.Tech Computer Science — Dnyan Prasad Global University (DPGU), Pimpri
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://github.com/Shantanuu1"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Shantanuu1-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:shantanushete94yt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shantanuu1&label=Profile+views&color=brightgreen&style=for-the-badge" />
+</p>
+
+### 👨‍💻 About Me
+
+📍 Pune, Maharashtra, India  
+🎓 B.Tech Computer Science — Dnyan Prasad Global University (DPGU), Pimpri
 
 I am a Computer Science student currently pursuing **B.Tech in Computer Science** through Direct Second Year admission after completing a **Diploma in Information Technology Engineering**.
 
@@ -10,28 +22,78 @@ I am interested in **Artificial Intelligence, Machine Learning, Computer Vision,
 
 ---
 
-## 🌐 Socials
+### 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Shantanuu1-black?style=for-the-badge&logo=github)](https://github.com/Shantanuu1)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shantanushete94yt@gmail.com)
+- **B.Tech in Computer Science**, Dnyan Prasad Global University (DPGU), Pimpri  
+  Direct Second Year · Currently Pursuing
+- **Diploma in Information Technology Engineering**, Jaihind Polytechnic, Kuran  
+  Maharashtra State Board of Technical Education (MSBTE) · Percentile: 91.53
 
 ---
 
-# 🚀 Featured Projects
+### 🛠️ Tech Stack & Skills
 
-## 🤖 AI / ML & IoT
+<table align="center">
+<tr>
+  <td><strong>Languages</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql" /></td>
+</tr>
+<tr>
+  <td><strong>AI / Machine Learning</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv" /><br/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobileNetV2-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><strong>Cloud Computing</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=aws" /><br/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><strong>Web Development</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,javascript,flask" /><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><strong>IoT & Embedded</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=raspberrypi,arduino" /><br/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><strong>Databases</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=mongodb,sqlite" /></td>
+</tr>
+<tr>
+  <td><strong>Data Visualization</strong></td>
+  <td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></td>
+</tr>
+<tr>
+  <td><strong>Dev Tools</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /></td>
+</tr>
+</table>
 
-| Project | What it is | Stack |
+---
+
+### 🚨 Project Highlights
+
+#### 🤖 AI / ML & IoT
+
+| Project | What It Actually Does | Stack |
 |---|---|---|
 | **Smart Agro Health Monitoring System** | IoT-based agricultural monitoring system with real-time sensor monitoring and AI-based plant health/disease detection using a MobileNetV2 CNN model. | Raspberry Pi · Python · IoT · TensorFlow · Keras · MobileNetV2 · Flask · MongoDB |
 | **E-Waste Pickup Request System** | Android application developed for requesting and managing e-waste pickup services with local database storage. | Java · Android · SQLite |
 
----
+#### 🌐 Web Development & Cloud
 
-## 🌐 Web Development & Cloud
-
-| Project | What it is | Stack |
+| Project | What It Actually Does | Stack |
 |---|---|---|
 | **Vantara Website Clone & AWS Deployment** | Developed a website clone, integrated MongoDB for application data, configured an Amazon EC2 instance and deployed the website using AWS. | HTML · CSS · JavaScript · MongoDB · Amazon EC2 · AWS · Sublime Text |
 | **Swamini Foods Website** | Real-world freelance web development project for a food business involving website development, backend integration, database functionality and deployment. | Web Development · Backend · Database · Deployment |
@@ -40,11 +102,56 @@ I am interested in **Artificial Intelligence, Machine Learning, Computer Vision,
 
 ---
 
-# 💼 Experience
+### 🚀 Projects
 
-### ☁️ AWS Intern
+<details>
+<summary><b>🌱 Smart Agro Health Monitoring System – IoT + AI Plant Health Detection</b></summary>
 
-**Amazon Web Services (AWS) · Cloud Computing**
+(Raspberry Pi, Python, IoT, TensorFlow, Keras, MobileNetV2, Flask, MongoDB)
+
+- IoT-based agricultural monitoring system with real-time sensor monitoring.
+- AI-based plant health/disease detection using a MobileNetV2 CNN model.
+
+</details>
+
+<details>
+<summary><b>♻️ E-Waste Pickup Request System – Android App</b></summary>
+
+(Java, Android, SQLite)
+
+- Android application developed for requesting and managing e-waste pickup services.
+- Uses local database storage (SQLite).
+
+</details>
+
+<details>
+<summary><b>☁️ Vantara Website Clone & AWS Deployment</b></summary>
+
+(HTML, CSS, JavaScript, MongoDB, Amazon EC2, AWS, Sublime Text)
+
+- Developed a website clone.
+- Integrated MongoDB for application data.
+- Configured an Amazon EC2 instance and deployed the website using AWS.
+
+</details>
+
+<details>
+<summary><b>🍽️ Swamini Foods Website – Freelance Project</b></summary>
+
+[Live](https://www.swaminifoods.com/)  
+(Web Development, Backend, Database, Deployment)
+
+- Real-world freelance web development project for a food business.
+- Involved website development, backend integration, database functionality and deployment.
+
+</details>
+
+---
+
+### 💼 Experience
+
+<details>
+<summary><b>☁️ AWS Intern – Amazon Web Services · Cloud Computing</b></summary>
 
 Gained practical exposure to AWS and cloud computing through hands-on internship work involving cloud technologies, deployment concepts and cloud infrastructure.
 
@@ -53,11 +160,10 @@ Gained practical exposure to AWS and cloud computing through hands-on internship
 - Gained exposure to cloud deployment concepts.
 - Applied cloud computing concepts through hands-on technical learning.
 
----
+</details>
 
-### 💻 Freelance Web Development
-
-**Swamini Foods Website**
+<details>
+<summary><b>💻 Freelance Web Developer – Swamini Foods Website</b></summary>
 
 Worked on a real-world website development project for Swamini Foods.
 
@@ -67,114 +173,66 @@ Worked on a real-world website development project for Swamini Foods.
 - Worked on the project as part of freelance web development.
 - Gained practical experience working on a client-oriented website project.
 
----
-
-# 🎓 Education
-
-### B.Tech in Computer Science
-
-**Dnyan Prasad Global University (DPGU), Pimpri**
-
-Direct Second Year · Currently Pursuing
-
-### Diploma in Information Technology Engineering
-
-**Jaihind Polytechnic, Kuran**
-
-Maharashtra State Board of Technical Education (MSBTE)
-
-**Percentile: 91.53**
+</details>
 
 ---
 
-# 📜 Certifications & Professional Development
+### 📜 Certifications & Professional Development
 
 - **AWS / Cloud Computing Internship**
-- Add other completed technical certifications here
+- *(Add your other completed technical certifications here)*
 
 ---
 
-# 💻 Tech Stack
+### 💻 Coding Stats
 
-### Programming Languages
+<details>
+<summary><b>GitHub Metrics</b></summary>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**⭐ GitHub Stats**
+<div align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shantanuu1&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shantanuu1&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shantanuu1&theme=radical"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shantanuu1&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shantanuu1&theme=radical&utcOffset=5.5"/>
+</div>
 
-### AI / Machine Learning
+🔥 **GitHub Streak**
+<div align="center">
+  <img height="169em" src="https://streak-stats.demolab.com/?user=Shantanuu1&theme=radical"/>
+</div>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+📈 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shantanuu1&theme=react-dark"/>
+</p>
 
-### Cloud Computing
+**📊 Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanuu1&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### IoT & Embedded Systems
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Data Visualization
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+</details>
 
 ---
 
-# 📊 GitHub Stats
-
-![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shantanuu1&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanuu1&layout=compact&theme=dark&hide_border=true)
-
----
-
-# 📈 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shantanuu1&theme=dark&hide_border=true)
+### 🌱 Currently Exploring
+- AI, Machine Learning and Computer Vision
+- IoT and Embedded Systems
+- Cloud Computing (AWS)
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-📧 **Email:** shantanushete94yt@gmail.com
-
-💼 **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-
-💻 **GitHub:** [Shantanuu1](https://github.com/Shantanuu1)
-
+📧 **Email:** shantanushete94yt@gmail.com  
+💼 **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)  
+💻 **GitHub:** [Shantanuu1](https://github.com/Shantanuu1)  
 🌐 **Live Website:** [Swamini Foods](https://www.swaminifoods.com/)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center"><b>⭐ Thanks for visiting my profile! Star my repos & connect on LinkedIn!</b></p>
